@@ -1,3 +1,3 @@
-# PA01
+# PA00
 Code for Exercise 00
 Java course at OCC
